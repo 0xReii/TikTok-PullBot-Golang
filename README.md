@@ -25,7 +25,7 @@ Check out the YouTube review of this tool to see it in action!
 [![Watch the review](https://img.youtube.com/vi/8JrBsrm6HSc/maxresdefault.jpg)](https://youtu.be/8JrBsrm6HSc?si=Xjt-OcGUCMujXEKb)
 
 ## 🖼️ **Sample Screenshot:**
-![Sample Image](https://github.com/0xReii/TikTok-PullBot-Golang/blob/main/Capture.PNG)
+![Sample Image](https://github.com/0xReii/TikTok-PullBot-Golang/blob/main/Update.PNG)
 
 ## 💻 **Get Started Now:**
 Perfect for anyone needing to automate email checks or gather valid TikTok/Outlook accounts for various purposes.
