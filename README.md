@@ -22,7 +22,7 @@ Check and verify the availability of TikTok and Outlook email accounts and pull 
 ## 🎥 **Watch the Review Video:**
 Check out the YouTube review of this tool to see it in action!
 
-[![Watch the review](https://img.youtube.com/vi/8JrBsrm6HSc/maxresdefault.jpg)](https://youtu.be/8JrBsrm6HSc?si=Xjt-OcGUCMujXEKb)
+[![Watch the review](https://github.com/0xReii/TikTok-PullBot-Golang/blob/main/2025-02-11_16-15-52.mp4)
 
 ## 🖼️ **Sample Screenshot (UPDATED):**
 ![Sample Image](https://github.com/0xReii/TikTok-PullBot-Golang/blob/main/Update.PNG)
